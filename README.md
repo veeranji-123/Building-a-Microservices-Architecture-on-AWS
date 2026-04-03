@@ -2,7 +2,7 @@
 ## Static Frontend · Serverless Auth · REST API · Intelligent Routing
 
 > **Project:** AWS Microservices Architecture using S3, Lambda, EC2, and ALB
-> **Author:** Ashish
+> **Author:** veeranji
 > **Purpose:** Lab documentation with step-by-step setup, screenshots, and explanations
 
 ---
